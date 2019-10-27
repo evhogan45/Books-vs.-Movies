@@ -1,1 +1,3 @@
 # Books-vs.-Movies
+
+In this project I sought to empirically answer whether or not books are truly better than movies. There are two data sources. The first is a dataset from kaggle about 10,000 popular classic books and their average rating from various internet sources. The second is a public web API that returns movie information from an input title. While subjective in nature, I managed to quantify public opinion on various movie-book pairs and answer whic one is better. Read "SI 330 report" for more information about the necessary data manipulations and filtrations I erformed to complete this project. 
